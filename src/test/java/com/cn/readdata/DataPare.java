@@ -1,4 +1,4 @@
-package com.cn.data;
+package com.cn.readdata;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

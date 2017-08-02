@@ -8,8 +8,6 @@ import java.util.Collection;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import com.cn.data.DataPare;
-
 public class ReadData {
 	
 	private String name;
